@@ -1,2 +1,0 @@
-# FrontEndMentorChallenge-SinglePriceComponentReponsive
-Created with CodeSandbox
