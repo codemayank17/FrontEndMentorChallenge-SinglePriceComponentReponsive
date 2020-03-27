@@ -1,7 +1,7 @@
 # FrontEndMentorChallenge-SinglePriceComponentReponsive
 
 
-This is a simple HTML and CCS challenge component.Fully responsive with help of grid layout and media queries.
+This is a simple HTML and CSS challenge component. Fully responsive with help of grid layout and media queries.
 
 ## Desktop
 ![desktop](Screenshots/desktop.png)
