@@ -3,7 +3,7 @@
 
 This is a simple HTML and CSS challenge component. Fully responsive with help of grid layout and media queries.
 
-Go to sample : https://kf9zz.codesandbox.io/
+Go to sample : https://frontend-mentor-single-price-component.netlify.com/
 
 ## Desktop
 ![desktop](Screenshots/desktop.png)
